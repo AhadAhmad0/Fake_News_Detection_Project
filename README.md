@@ -35,9 +35,7 @@ This approach was chosen to:
 3.Maintain reasonable model performance
 4.Enable faster training during app startup
 
-Live Deployment:
-The application is live and accessible here.
-https://fake-news-detection-project-ahad5.onrender.com
+🔗 *Live Demo:* [Fake News Detection Web App](https://fake-news-detection-project-ahad5.onrender.com)
 
 Conclusion:
 This project demonstrates an end-to-end ML workflow including data preprocessing, model training, web integration, and deployment. It is designed to be lightweight, practical, and suitable for real-world applications.
